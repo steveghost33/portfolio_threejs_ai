@@ -24,9 +24,9 @@ const Backdrop = () => {
         position={[5, 5, -10]}
       />
       <RandomizedLight 
-        amount={4}
+        amount={5}
         radius={5}
-        intensity={0.25}
+        intensity={1.5}
         ambient={0.55}
         position={[-5, 5, -9]}
       />
